@@ -22,10 +22,10 @@ class ReaderFactory:
         """
         if self.folder_name not in self.__DATA_LINKS.keys():
             raise KeyError(f"Reader not exist! Possible readers: {self.__DATA_LINKS.keys()}")
-        if not os.path.exists(self.abs_path) or not os.listdir(self.abs_path):
-            error_msg = f"Path {os.path.join(os.getcwd(), 'data', self.folder_name)} does not exit. " \
+        if not os.path.exists(self.abs_path) or not os.listdir(self.abs_path):  # TODO add try except if needed
+            error_msg = f"Path {self.abs_path} does not exit. " \
                         f"Download files to this folder from: {self.__DATA_LINKS[self.folder_name]}"
             raise FileNotFoundError(error_msg)
 
     def get_reader(self) -> ReaderInterface:
-        return self.__READERS[self.folder_name]()
+        return self.__READERS[self.folder_name]()  # TODO add __instance to class
