@@ -17,7 +17,7 @@ class Network:
 
 
 if __name__ == '__main__':
-    neuron = Network("X","Y")  # TODO
+    neuron = Network("X", "Y")  # TODO
     neuron.model.summary()
     neuron.model_compile()
     neuron.model_fit()

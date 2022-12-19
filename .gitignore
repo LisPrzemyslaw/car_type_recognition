@@ -131,3 +131,7 @@ dmypy.json
 
 # PyCharm
 .idea
+
+# Data
+/data/name_based_images/
+/data/stanford-car-dataset-by-classes-folder/
