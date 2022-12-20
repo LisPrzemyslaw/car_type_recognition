@@ -1,5 +1,3 @@
-import os
+from image_recognition.pictures import Pictures
 
-
-if not os.listdir(os.path.join(os.getcwd(), "test")):
-    print("no elo")
+all_pictures = Pictures()

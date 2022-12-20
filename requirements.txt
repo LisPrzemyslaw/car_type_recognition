@@ -2,3 +2,4 @@ pandas
 numpy
 tensorflow
 flake8
+opencv-python

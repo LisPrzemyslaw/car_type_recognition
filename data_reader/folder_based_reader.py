@@ -1,7 +1,26 @@
+import os
+import cv2
+
 from data_reader.reader_interface import ReaderInterface
 
 
 class FolderBasedReader(ReaderInterface):
     def __init__(self):
         super().__init__()
-        pass
+        self.is_train = True
+        self.abs_path = os.path.join(os.getcwd(), "data/stanford-car-dataset-by-classes-folder/car_data/car_data", self.get_training_or_test())
+
+    def read_images(self):
+        for car_full_name in self.get_all_folders():
+            for picture_name in os.listdir(os.path.join(self.abs_path, car_full_name)):
+                # cv2 read
+                pass
+
+    def set_test(self):
+        self.is_train = False
+
+    def get_training_or_test(self) -> str:
+        return "train" if self.is_train else "test"
+
+    def get_all_folders(self) -> list:
+        return os.listdir(self.abs_path)
