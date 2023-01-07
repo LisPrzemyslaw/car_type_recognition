@@ -1,3 +1,6 @@
-from image_recognition.pictures import Pictures
+def main():
+    pass
 
-all_pictures = Pictures()
+
+if __name__ == '__main__':
+    pass
