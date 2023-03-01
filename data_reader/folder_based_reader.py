@@ -20,17 +20,16 @@ class FolderBasedReader(ReaderInterface):
         self._read_car_data_from_json_file()
 
     def read_images(self):
-        i = 0
         for car_full_name in self.get_all_folders():
             for picture_name in os.listdir(os.path.join(self.abs_path, car_full_name)):
-                i += 1
                 car = Car(cv2.imread(os.path.join(self.abs_path, car_full_name, picture_name)),
                           self.car_data_from_json["stanford-car-dataset-by-classes-folder"][car_full_name]["car_type"],
                           self.car_data_from_json["stanford-car-dataset-by-classes-folder"][car_full_name]["car_model"],
                           self.car_data_from_json["stanford-car-dataset-by-classes-folder"][car_full_name]["production_year"],
+                          self.car_data_from_json["stanford-car-dataset-by-classes-folder"][car_full_name]["num_value"],
                           )
                 self.pictures_obj.add(car)
-        print(i)
+        print("all images read")
 
     def _read_car_data_from_json_file(self):
         """

@@ -3,947 +3,1136 @@
     "Acura RL Sedan": {
       "car_type": "Acura",
       "car_model": "RL",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 0
     },
     "Acura TL Sedan": {
       "car_type": "Acura",
       "car_model": "TL",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 1
     },
     "Acura TL Type-S": {
       "car_type": "Acura",
       "car_model": "TL",
-      "production_year": 2008
+      "production_year": 2008,
+      "num_value": 2
     },
     "Acura TSX Sedan": {
       "car_type": "Acura",
       "car_model": "TSX",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 3
     },
     "Acura ZDX Hatchback": {
       "car_type": "Acura",
       "car_model": "ZDX",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 4
     },
     "Audi 100 Sedan": {
       "car_type": "Audi",
       "car_model": "100",
-      "production_year": 1994
+      "production_year": 1994,
+      "num_value": 5
     },
     "Audi 100 Wagon": {
       "car_type": "Audi",
       "car_model": "100",
-      "production_year": 1994
+      "production_year": 1994,
+      "num_value": 6
     },
     "Audi A5 Coupe": {
       "car_type": "Audi",
       "car_model": "A5",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 7
     },
     "Audi R8 Coupe": {
       "car_type": "Audi",
       "car_model": "R8",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 8
     },
     "Audi S4 Sedan": {
       "car_type": "Audi",
       "car_model": "S4",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 9
     },
     "Audi S5 Convertible": {
       "car_type": "Audi",
       "car_model": "S5",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 10
     },
     "Audi S5 Coupe": {
       "car_type": "Audi",
       "car_model": "S5",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 11
     },
     "Audi S6 Sedan": {
       "car_type": "Audi",
       "car_model": "S6",
-      "production_year": 2011
+      "production_year": 2011,
+      "num_value": 12
     },
     "Audi TT Hatchback": {
       "car_type": "Audi",
       "car_model": "TT",
-      "production_year": 2011
+      "production_year": 2011,
+      "num_value": 13
     },
     "Audi TTS Coupe": {
       "car_type": "Audi",
       "car_model": "TTS",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 14
     },
     "Audi V8 Sedan": {
       "car_type": "Audi",
       "car_model": "V8",
-      "production_year": 1994
+      "production_year": 1994,
+      "num_value": 15
     },
     "Bentley Arnage Sedan": {
       "car_type": "Bentley",
       "car_model": "Arnage",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 16
     },
     "Bentley Mulsanne Sedan": {
       "car_type": "Bentley",
       "car_model": "Mulsanne",
-      "production_year": 2011
+      "production_year": 2011,
+      "num_value": 17
     },
     "BMW M3 Coupe": {
       "car_type": "BMW",
       "car_model": "M3",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 18
     },
     "BMW M5 Sedan": {
       "car_type": "BMW",
       "car_model": "M5",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 19
     },
     "BMW M6 Convertible": {
       "car_type": "BMW",
       "car_model": "M6",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 20
     },
     "BMW X3 SUV": {
       "car_type": "BMW",
       "car_model": "X3",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 21
     },
     "BMW X5 SUV": {
       "car_type": "BMW",
       "car_model": "X5",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 22
     },
     "BMW X6 SUV": {
       "car_type": "BMW",
       "car_model": "X6",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 23
     },
     "BMW Z4 Convertible": {
       "car_type": "BMW",
       "car_model": "Z4",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 24
     },
     "Buick Enclave SUV": {
       "car_type": "Buick",
       "car_model": "Enclave",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 25
     },
     "Buick Rainier SUV": {
       "car_type": "Buick",
       "car_model": "Rainier",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 26
     },
     "Buick Regal GS": {
       "car_type": "Buick",
       "car_model": "Regal",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 27
     },
     "Buick Verano Sedan": {
       "car_type": "Buick",
       "car_model": "Verano",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 28
     },
     "Cadillac CTS-V Sedan": {
       "car_type": "Cadillac",
       "car_model": "CTS-V",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 29
     },
     "Cadillac SRX SUV": {
       "car_type": "Cadillac",
       "car_model": "SRX",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 30
     },
     "Chevrolet Camaro Convertible": {
       "car_type": "Chevrolet",
       "car_model": "Camaro",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 31
     },
     "Chevrolet Cobalt SS": {
       "car_type": "Chevrolet",
       "car_model": "Cobalt",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 32
     },
     "Chevrolet Corvette Convertible": {
       "car_type": "Chevrolet",
       "car_model": "Corvette",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 33
     },
     "Chevrolet Corvette ZR1": {
       "car_type": "Chevrolet",
       "car_model": "Corvette",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 34
     },
     "Chevrolet Express Van": {
       "car_type": "Chevrolet",
       "car_model": "Express",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 35
     },
     "Chevrolet HHR SS": {
       "car_type": "Chevrolet",
       "car_model": "HHR",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 36
     },
     "Chevrolet Impala Sedan": {
       "car_type": "Chevrolet",
       "car_model": "Impala",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 37
     },
     "Chevrolet Malibu Sedan": {
       "car_type": "Chevrolet",
       "car_model": "Malibu",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 38
     },
     "Chevrolet Sonic Sedan": {
       "car_type": "Chevrolet",
       "car_model": "Sonic",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 39
     },
     "Chevrolet TrailBlazer SS": {
       "car_type": "Chevrolet",
       "car_model": "TrailBlazer",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 40
     },
     "Chevrolet Traverse SUV": {
       "car_type": "Chevrolet",
       "car_model": "Traverse",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 41
     },
     "Chrysler 300 SRT-8": {
       "car_type": "Chrysler",
       "car_model": "300",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 42
     },
     "Chrysler Aspen SUV": {
       "car_type": "Chrysler",
       "car_model": "Aspen",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 43
     },
     "Chrysler Crossfire Convertible": {
       "car_type": "Chrysler",
       "car_model": "Crossfire",
-      "production_year": 2008
+      "production_year": 2008,
+      "num_value": 44
     },
     "Chrysler Sebring Convertible": {
       "car_type": "Chrysler",
       "car_model": "Sebring",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 45
     },
     "Daewoo Nubira Wagon": {
       "car_type": "Daewoo",
       "car_model": "Nubira",
-      "production_year": 2002
+      "production_year": 2002,
+      "num_value": 46
     },
     "Dodge Caliber Wagon": {
       "car_type": "Dodge",
       "car_model": "Caliber",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 47
     },
     "Dodge Caravan Minivan": {
       "car_type": "Dodge",
       "car_model": "Caravan",
-      "production_year": 1997
+      "production_year": 1997,
+      "num_value": 48
     },
     "Dodge Challenger SRT8": {
       "car_type": "Dodge",
       "car_model": "Challenger",
-      "production_year": 2011
+      "production_year": 2011,
+      "num_value": 49
     },
     "Dodge Charger Sedan": {
       "car_type": "Dodge",
       "car_model": "Charger",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 50
     },
     "Dodge Charger SRT-8": {
       "car_type": "Dodge",
       "car_model": "Charger",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 51
     },
     "Dodge Durango SUV": {
       "car_type": "Dodge",
       "car_model": "Durango",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 52
     },
     "Dodge Journey SUV": {
       "car_type": "Dodge",
       "car_model": "Journey",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 53
     },
     "Dodge Magnum Wagon": {
       "car_type": "Dodge",
       "car_model": "Magnum",
-      "production_year": 2008
+      "production_year": 2008,
+      "num_value": 54
     },
     "Eagle Talon Hatchback": {
       "car_type": "Eagle",
       "car_model": "Talon",
-      "production_year": 1998
+      "production_year": 1998,
+      "num_value": 55
     },
     "Ferrari California Convertible": {
       "car_type": "Ferrari",
       "car_model": "California",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 56
     },
     "Ferrari FF Coupe": {
       "car_type": "Ferrari",
       "car_model": "FF",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 57
     },
     "FIAT 500 Abarth": {
       "car_type": "FIAT",
       "car_model": "500",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 58
     },
     "FIAT 500 Convertible": {
       "car_type": "FIAT",
       "car_model": "500",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 59
     },
     "Fisker Karma Sedan": {
       "car_type": "Fisker",
       "car_model": "Karma",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 60
     },
     "Ford Edge SUV": {
       "car_type": "Ford",
       "car_model": "Edge",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 61
     },
     "Ford Fiesta Sedan": {
       "car_type": "Ford",
       "car_model": "Fiesta",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 62
     },
     "Ford Focus Sedan": {
       "car_type": "Ford",
       "car_model": "Focus",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 63
     },
     "Ford Freestar Minivan": {
       "car_type": "Ford",
       "car_model": "Freestar",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 64
     },
     "Ford GT Coupe": {
       "car_type": "Ford",
       "car_model": "GT",
-      "production_year": 2006
+      "production_year": 2006,
+      "num_value": 65
     },
     "Ford Mustang Convertible": {
       "car_type": "Ford",
       "car_model": "Mustang",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 66
     },
     "Ford Ranger SuperCab": {
       "car_type": "Ford",
       "car_model": "Ranger",
-      "production_year": 2011
+      "production_year": 2011,
+      "num_value": 67
     },
     "Geo Metro Convertible": {
       "car_type": "Geo",
       "car_model": "Metro",
-      "production_year": 1993
+      "production_year": 1993,
+      "num_value": 68
     },
     "GMC Acadia SUV": {
       "car_type": "GMC",
       "car_model": "Acadia",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 69
     },
     "GMC Savana Van": {
       "car_type": "GMC",
       "car_model": "Savana",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 70
     },
     "GMC Terrain SUV": {
       "car_type": "GMC",
       "car_model": "Terrain",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 71
     },
     "Honda Accord Coupe": {
       "car_type": "Honda",
       "car_model": "Accord",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 72
     },
     "Honda Accord Sedan": {
       "car_type": "Honda",
       "car_model": "Accord",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 73
     },
     "Honda Odyssey Minivan": {
       "car_type": "Honda",
       "car_model": "Odyssey",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 74
     },
     "Hyundai Accent Sedan": {
       "car_type": "Hyundai",
       "car_model": "Accent",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 75
     },
     "Hyundai Azera Sedan": {
       "car_type": "Hyundai",
       "car_model": "Azera",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 76
     },
     "Hyundai Elantra Sedan": {
       "car_type": "Hyundai",
       "car_model": "Elantra",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 77
     },
     "Hyundai Genesis Sedan": {
       "car_type": "Hyundai",
       "car_model": "Genesis",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 78
     },
     "Hyundai Sonata Sedan": {
       "car_type": "Hyundai",
       "car_model": "Sonata",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 79
     },
     "Hyundai Tucson SUV": {
       "car_type": "Hyundai",
       "car_model": "Tucson",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 80
     },
     "Hyundai Veloster Hatchback": {
       "car_type": "Hyundai",
       "car_model": "Veloster",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 81
     },
     "Hyundai Veracruz SUV": {
       "car_type": "Hyundai",
       "car_model": "Veracruz",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 82
     },
     "Infiniti QX56 SUV": {
       "car_type": "Infiniti",
       "car_model": "QX56",
-      "production_year": 2011
+      "production_year": 2011,
+      "num_value": 83
     },
     "Isuzu Ascender SUV": {
       "car_type": "Isuzu",
       "car_model": "Ascender",
-      "production_year": 2008
+      "production_year": 2008,
+      "num_value": 84
     },
     "Jaguar XK XKR": {
       "car_type": "Jaguar",
       "car_model": "XK",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 85
     },
     "Jeep Compass SUV": {
       "car_type": "Jeep",
       "car_model": "Compass",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 86
     },
     "Jeep Liberty SUV": {
       "car_type": "Jeep",
       "car_model": "Liberty",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 87
     },
     "Jeep Patriot SUV": {
       "car_type": "Jeep",
       "car_model": "Patriot",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 88
     },
     "Jeep Wrangler SUV": {
       "car_type": "Jeep",
       "car_model": "Wrangler",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 89
     },
     "Lamborghini Aventador Coupe": {
       "car_type": "Lamborghini",
       "car_model": "Aventador",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 90
     },
     "Lamborghini Diablo Coupe": {
       "car_type": "Lamborghini",
       "car_model": "Diablo",
-      "production_year": 2001
+      "production_year": 2001,
+      "num_value": 91
     },
     "Lamborghini Reventon Coupe": {
       "car_type": "Lamborghini",
       "car_model": "Reventon",
-      "production_year": 2008
+      "production_year": 2008,
+      "num_value": 92
     },
     "Maybach Landaulet Convertible": {
       "car_type": "Maybach",
       "car_model": "Landaulet",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 93
     },
     "Mazda Tribute SUV": {
       "car_type": "Mazda",
       "car_model": "Tribute",
-      "production_year": 2011
+      "production_year": 2011,
+      "num_value": 94
     },
     "McLaren MP4-12C Coupe": {
       "car_type": "McLaren",
       "car_model": "MP4-12C",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 95
     },
     "Mercedes-Benz 300-Class Convertible": {
       "car_type": "Mercedes-Benz",
       "car_model": "300-Class",
-      "production_year": 1993
+      "production_year": 1993,
+      "num_value": 96
     },
     "Mercedes-Benz C-Class Sedan": {
       "car_type": "Mercedes-Benz",
       "car_model": "C-Class",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 97
     },
     "Mercedes-Benz E-Class Sedan": {
       "car_type": "Mercedes-Benz",
       "car_model": "E-Class",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 98
     },
     "Mercedes-Benz S-Class Sedan": {
       "car_type": "Mercedes-Benz",
       "car_model": "S-Class",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 99
     },
     "Mercedes-Benz SL-Class Coupe": {
       "car_type": "Mercedes-Benz",
       "car_model": "SL-Class",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 100
     },
     "Mercedes-Benz Sprinter Van": {
       "car_type": "Mercedes-Benz",
       "car_model": "Sprinter",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 101
     },
     "Mitsubishi Lancer Sedan": {
       "car_type": "Mitsubishi",
       "car_model": "Lancer",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 102
     },
     "Nissan 240SX Coupe": {
       "car_type": "Nissan",
       "car_model": "240SX",
-      "production_year": 1998
+      "production_year": 1998,
+      "num_value": 103
     },
     "Nissan Juke Hatchback": {
       "car_type": "Nissan",
       "car_model": "Juke",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 104
     },
     "Nissan Leaf Hatchback": {
       "car_type": "Nissan",
       "car_model": "Leaf",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 105
     },
     "Plymouth Neon Coupe": {
       "car_type": "Plymouth",
       "car_model": "Neon",
-      "production_year": 1999
+      "production_year": 1999,
+      "num_value": 106
     },
     "Porsche Panamera Sedan": {
       "car_type": "Porsche",
       "car_model": "Panamera",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 107
     },
     "Rolls-Royce Ghost Sedan": {
       "car_type": "Rolls-Royce",
       "car_model": "Ghost",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 108
     },
     "Rolls-Royce Phantom Sedan": {
       "car_type": "Rolls-Royce",
       "car_model": "Phantom",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 109
     },
     "Scion xD Hatchback": {
       "car_type": "Scion",
       "car_model": "xD",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 110
     },
     "smart fortwo Convertible": {
       "car_type": "smart",
       "car_model": "fortwo",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 111
     },
     "Spyker C8 Convertible": {
       "car_type": "Spyker",
       "car_model": "C8",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 112
     },
     "Spyker C8 Coupe": {
       "car_type": "Spyker",
       "car_model": "C8",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 113
     },
     "Suzuki Aerio Sedan": {
       "car_type": "Suzuki",
       "car_model": "Aerio",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 114
     },
     "Suzuki Kizashi Sedan": {
       "car_type": "Suzuki",
       "car_model": "Kizashi",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 115
     },
     "Suzuki SX4 Hatchback": {
       "car_type": "Suzuki",
       "car_model": "SX4",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 116
     },
     "Suzuki SX4 Sedan": {
       "car_type": "Suzuki",
       "car_model": "SX4",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 117
     },
     "Toyota 4Runner SUV": {
       "car_type": "Toyota",
       "car_model": "4Runner",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 118
     },
     "Toyota Camry Sedan": {
       "car_type": "Toyota",
       "car_model": "Camry",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 119
     },
     "Toyota Corolla Sedan": {
       "car_type": "Toyota",
       "car_model": "Corolla",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 120
     },
     "Toyota Sequoia SUV": {
       "car_type": "Toyota",
       "car_model": "Sequoia",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 121
     },
     "Volkswagen Beetle Hatchback": {
       "car_type": "Volkswagen",
       "car_model": "Beetle",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 122
     },
     "Volkswagen Golf Hatchback": {
       "car_type": "Volkswagen",
       "car_model": "Golf",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 123
     },
     "Volvo 240 Sedan": {
       "car_type": "Volvo",
       "car_model": "240",
-      "production_year": 1993
+      "production_year": 1993,
+      "num_value": 124
     },
     "Volvo C30 Hatchback": {
       "car_type": "Volvo",
       "car_model": "C30",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 125
     },
     "Volvo XC90 SUV": {
       "car_type": "Volvo",
       "car_model": "XC90",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 126
     },
     "Acura Integra Type R": {
       "car_type": "Acura",
       "car_model": "Integra",
-      "production_year": 2001
+      "production_year": 2001,
+      "num_value": 127
     },
     "AM General Hummer SUV": {
       "car_type": "AM General",
       "car_model": "Hummer",
-      "production_year": 2000
+      "production_year": 2000,
+      "num_value": 128
     },
     "Aston Martin V8 Vantage Convertible": {
       "car_type": "Aston Martin",
       "car_model": "V8 Vantage",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 129
     },
     "Aston Martin V8 Vantage Coupe": {
       "car_type": "Aston Martin",
       "car_model": "V8 Vantage",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 130
     },
     "Aston Martin Virage Convertible": {
       "car_type": "Aston Martin",
       "car_model": "Virage",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 131
     },
     "Aston Martin Virage Coupe": {
       "car_type": "Aston Martin",
       "car_model": "Virage",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 132
     },
     "Audi RS 4 Convertible": {
       "car_type": "Audi",
       "car_model": "RS4",
-      "production_year": 2008
+      "production_year": 2008,
+      "num_value": 133
     },
     "Audi TT RS Coupe": {
       "car_type": "Audi",
       "car_model": "TT",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 134
     },
     "Bentley Continental Flying Spur Sedan": {
       "car_type": "Bentley",
       "car_model": "Continental Flying Spur",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 135
     },
     "Bentley Continental GT Coupe": {
       "car_type": "Bentley",
       "car_model": "Continental GT",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 136
     },
     "Bentley Continental Supersports Conv. Convertible": {
       "car_type": "Bentley",
       "car_model": "Continental Supersports",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 137
     },
     "BMW 1 Series Convertible": {
       "car_type": "BMW",
       "car_model": "1 Series",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 138
     },
     "BMW 1 Series Coupe": {
       "car_type": "BMW",
       "car_model": "1 Series",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 139
     },
     "BMW 3 Series Sedan": {
       "car_type": "BMW",
       "car_model": "3 Series",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 140
     },
     "BMW 3 Series Wagon": {
       "car_type": "BMW",
       "car_model": "3 Series",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 141
     },
     "BMW 6 Series Convertible": {
       "car_type": "BMW",
       "car_model": "6 Series",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 142
     },
     "BMW ActiveHybrid 5 Sedan": {
       "car_type": "BMW",
       "car_model": "5 Series",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 143
     },
     "Bugatti Veyron 16.4 Convertible": {
       "car_type": "Bugatti",
       "car_model": "Veyron",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 144
     },
     "Bugatti Veyron 16.4 Coupe": {
       "car_type": "Bugatti",
       "car_model": "Veyron",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 145
     },
     "Cadillac Escalade EXT Crew Cab": {
       "car_type": "Cadillac",
       "car_model": "Escalade",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 146
     },
     "Chevrolet Avalanche Crew Cab": {
       "car_type": "Chevrolet",
       "car_model": "Avalanche",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 147
     },
     "Chevrolet Corvette Ron Fellows Edition Z06": {
       "car_type": "Chevrolet",
       "car_model": "Corvette",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 148
     },
     "Chevrolet Express Cargo Van": {
       "car_type": "Chevrolet",
       "car_model": "Express",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 149
     },
     "Chevrolet Malibu Hybrid Sedan": {
       "car_type": "Chevrolet",
       "car_model": "Malibu",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 150
     },
     "Chevrolet Monte Carlo Coupe": {
       "car_type": "Chevrolet",
       "car_model": "Monte Carlo",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 151
     },
     "Chevrolet Silverado 1500 Classic Extended Cab": {
       "car_type": "Chevrolet",
       "car_model": "Silverado",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 152
     },
     "Chevrolet Silverado 1500 Extended Cab": {
       "car_type": "Chevrolet",
       "car_model": "Silverado",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 153
     },
     "Chevrolet Silverado 1500 Hybrid Crew Cab": {
       "car_type": "Chevrolet",
       "car_model": "Silverado",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 154
     },
     "Chevrolet Silverado 1500 Regular Cab": {
       "car_type": "Chevrolet",
       "car_model": "Silverado",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 155
     },
     "Chevrolet Silverado 2500HD Regular Cab": {
       "car_type": "Chevrolet",
       "car_model": "Silverado",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 156
     },
     "Chevrolet Tahoe Hybrid SUV": {
       "car_type": "Chevrolet",
       "car_model": "Tahoe",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 157
     },
     "Chrysler PT Cruiser Convertible": {
       "car_type": "Chrysler",
       "car_model": "PT Cruiser",
-      "production_year": 2008
+      "production_year": 2008,
+      "num_value": 158
     },
     "Chrysler Town and Country Minivan": {
       "car_type": "Chrysler",
       "car_model": "Town and Country",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 159
     },
     "Dodge Dakota Club Cab": {
       "car_type": "Dodge",
       "car_model": "Dakota",
-      "production_year": 2007
+      "production_year": 2007,
+      "num_value": 160
     },
     "Dodge Dakota Crew Cab": {
       "car_type": "Dodge",
       "car_model": "Dakota",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 161
     },
     "Dodge Ram Pickup 3500 Crew Cab": {
       "car_type": "Dodge",
       "car_model": "Ram",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 162
     },
     "Dodge Ram Pickup 3500 Quad Cab": {
       "car_type": "Dodge",
       "car_model": "Ram",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 163
     },
     "Dodge Sprinter Cargo Van": {
       "car_type": "Dodge",
       "car_model": "Sprinter",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 164
     },
     "Ferrari 458 Italia Convertible": {
       "car_type": "Ferrari",
       "car_model": "458 Italia",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 165
     },
     "Ferrari 458 Italia Coupe": {
       "car_type": "Ferrari",
       "car_model": "458 Italia",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 166
     },
     "Ford E-Series Wagon Van": {
       "car_type": "Ford",
       "car_model": "E-Series",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 167
     },
     "Ford Expedition EL SUV": {
       "car_type": "Ford",
       "car_model": "Expedition",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 168
     },
     "Ford F-150 Regular Cab": {
       "car_type": "Ford",
       "car_model": "F-150",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 169
     },
     "Ford F-450 Super Duty Crew Cab": {
       "car_type": "Ford",
       "car_model": "F-450",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 170
     },
     "GMC Canyon Extended Cab": {
       "car_type": "GMC",
       "car_model": "Canyon",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 171
     },
     "GMC Yukon Hybrid SUV": {
       "car_type": "GMC",
       "car_model": "Yukon",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 172
     },
     "HUMMER H2 SUT Crew Cab": {
       "car_type": "HUMMER",
       "car_model": "H2",
-      "production_year": 2009
+      "production_year": 2009,
+      "num_value": 173
     },
     "HUMMER H3T Crew Cab": {
       "car_type": "HUMMER",
       "car_model": "H3T",
-      "production_year": 2010
+      "production_year": 2010,
+      "num_value": 174
     },
     "Hyundai Elantra Touring Hatchback": {
       "car_type": "Hyundai",
       "car_model": "Elantra",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 175
     },
     "Hyundai Santa Fe SUV": {
       "car_type": "Hyundai",
       "car_model": "Santa Fe",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 176
     },
     "Hyundai Sonata Hybrid Sedan": {
       "car_type": "Hyundai",
       "car_model": "Sonata",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 177
     },
     "Infiniti G Coupe IPL": {
       "car_type": "Infiniti",
       "car_model": "G",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 178
     },
     "Jeep Grand Cherokee SUV": {
       "car_type": "Jeep",
       "car_model": "Grand Cherokee",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 179
     },
     "Lamborghini Gallardo LP 570-4 Superleggera": {
       "car_type": "Lamborghini",
       "car_model": "Gallardo",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 180
     },
     "Land Rover LR2 SUV": {
       "car_type": "Land Rover",
       "car_model": "LR2",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 181
     },
     "Land Rover Range Rover SUV": {
       "car_type": "Land Rover",
       "car_model": "Range Rover",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 182
     },
     "Lincoln Town Car Sedan": {
       "car_type": "Lincoln",
       "car_model": "Town Car",
-      "production_year": 2011
+      "production_year": 2011,
+      "num_value": 183
     },
     "MINI Cooper Roadster Convertible": {
       "car_type": "MINI Cooper",
       "car_model": "Roadster",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 184
     },
     "Nissan NV Passenger Van": {
       "car_type": "Nissan",
       "car_model": "NV",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 185
     },
     "Ram C-V Cargo Van Minivan": {
       "car_type": "Ram",
       "car_model": "C-V",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 186
     },
     "Rolls-Royce Phantom Drophead Coupe Convertible": {
       "car_type": "Rolls-Royce",
       "car_model": "Phantom",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 187
     },
     "Tesla Model S Sedan": {
       "car_type": "Tesla",
       "car_model": "Model S",
-      "production_year": 2012
+      "production_year": 2012,
+      "num_value": 188
     }
   }
 }

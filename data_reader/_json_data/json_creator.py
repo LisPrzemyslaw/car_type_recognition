@@ -2,7 +2,7 @@ import os
 import json
 
 
-def main():
+def __create_first_draw():
     all_dirs = os.listdir(os.path.join(os.getcwd(), "data/stanford-car-dataset-by-classes-folder/car_data/car_data/test"))
     json_output_file_path = os.path.join(os.getcwd(), "data_reader/_json_data/car_data.json")
 
@@ -45,5 +45,16 @@ def main():
         json.dump(dict_data, outfile)
 
 
+def add_indexes_to_cars():
+    with open(os.path.join(os.path.dirname(__file__), "car_data.json"), "r") as infile:
+        json_data = json.load(infile)
+
+    for i, car_name in enumerate(json_data["stanford-car-dataset-by-classes-folder"].keys()):
+        json_data["stanford-car-dataset-by-classes-folder"][car_name]["num_value"] = i
+
+    with open(os.path.join(os.path.dirname(__file__), "car_data.json"), "w") as outfile:
+        json.dump(json_data, outfile)
+
+
 if __name__ == "__main__":
-    main()
+    add_indexes_to_cars()
