@@ -18,11 +18,13 @@ class FolderBasedReader(ReaderInterface):
                                      self.get_training_or_test())
         self.car_data_from_json: Optional[dict] = None
         self._read_car_data_from_json_file()
+        self.height = 256
+        self.width = 256
 
     def read_images(self):
         for car_full_name in self.get_all_folders():
             for picture_name in os.listdir(os.path.join(self.abs_path, car_full_name)):
-                car = Car(cv2.imread(os.path.join(self.abs_path, car_full_name, picture_name)),
+                car = Car(cv2.resize(cv2.imread(os.path.join(self.abs_path, car_full_name, picture_name)), (self.width, self.height),),
                           self.car_data_from_json["stanford-car-dataset-by-classes-folder"][car_full_name]["car_type"],
                           self.car_data_from_json["stanford-car-dataset-by-classes-folder"][car_full_name]["car_model"],
                           self.car_data_from_json["stanford-car-dataset-by-classes-folder"][car_full_name]["production_year"],
