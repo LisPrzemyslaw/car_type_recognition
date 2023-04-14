@@ -3,7 +3,8 @@ import json
 
 
 def __create_first_draw():
-    all_dirs = os.listdir(os.path.join(os.getcwd(), "data/stanford-car-dataset-by-classes-folder/car_data/car_data/test"))
+    all_dirs = os.listdir(
+        os.path.join(os.getcwd(), "data/stanford-car-dataset-by-classes-folder/car_data/car_data/test"))
     json_output_file_path = os.path.join(os.getcwd(), "data_reader/_json_data/car_data.json")
 
     three_element_path = [data for data in all_dirs if len(data.split(" ")) == 3]
@@ -57,4 +58,4 @@ def add_indexes_to_cars():
 
 
 if __name__ == "__main__":
-    add_indexes_to_cars()
+    pass

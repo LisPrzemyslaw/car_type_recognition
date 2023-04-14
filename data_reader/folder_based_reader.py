@@ -9,17 +9,13 @@ from image_recognition.data_objects.car import Car
 
 
 class FolderBasedReader(ReaderInterface):
-    _JSON_CAR_DATA_PATH = os.path.join(os.getcwd(), "data_reader/_json_data/car_data.json")
 
     def __init__(self, pictures_obj: Pictures):
         super().__init__(pictures_obj)
         self.is_train = True
         self.abs_path = os.path.join(os.getcwd(), "data/stanford-car-dataset-by-classes-folder/car_data/car_data",
                                      self.get_training_or_test())
-        self.car_data_from_json: Optional[dict] = None
-        self._read_car_data_from_json_file()
-        self.height = 256
-        self.width = 256
+
 
     def read_images(self):
         for car_full_name in self.get_all_folders():
@@ -33,12 +29,7 @@ class FolderBasedReader(ReaderInterface):
                 self.pictures_obj.add(car)
         print("all images read")
 
-    def _read_car_data_from_json_file(self):
-        """
-        This method will read data from json file and assign to class variable
-        """
-        with open(self._JSON_CAR_DATA_PATH, "r") as file:
-            self.car_data_from_json = json.load(file)
+
 
     def set_test(self):
         self.is_train = False
